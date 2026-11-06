@@ -28,7 +28,7 @@ Status:    Open to collaboration & freelance
 |---|---|---|---|
 | **MUA ODeL** | Open, Distance & eLearning platform for Management University of Africa | React · Tailwind · PHP · MySQL | [🔗 Live](https://odel.mua.ac.ke) |
 | **EastMedic HMS** | Hospital management — records, appointments, billing & pharmacy | PHP · MySQL · JavaScript | [🔗 Live](https://eastmedic-hms.vercel.app) |
-| **Zynthos** | AI agent platform — build, deploy & run AI agents with a built-in copilot | React · TypeScript · AI/LLM | [🔗 Live](https://zynthos-lab.vercel.app) |
+| **Constel** | AI agent platform — build, deploy & run AI agents with a built-in copilot | React · TypeScript · AI/LLM | [🔗 Live](https://zynthos-lab.vercel.app) |
 | **Cloud SMS Engine** | Bulk & transactional SMS platform with dashboard and API | React · Node.js · SMS API | [🔗 Live](https://cloudsmsengine.co.ke) |
 | **Cloud ISP Engine** | ISP billing & management — customers, plans, invoicing & payments | React · PostgreSQL · Payments | 🔧 Coming soon |
 | **CampusTribe** | Campus community & social platform for students | React · Flask · PostgreSQL | 🔧 Coming soon |
